@@ -16,7 +16,7 @@
     <meta name="theme-color" content="#fafafa">
 </head>
 <body>
-<div ID = "toTop" ><div>НАВЕРХ</div></div>
+<div ID = "toTop" ><div class="top"><img src="img/arrow.png" alt=""></div></div>
 <!--[if lte IE 9]>
 <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade
     your browser</a> to improve your experience and security.</p>
@@ -25,11 +25,9 @@
     <!--<img src="img/icon_paint.png" alt="Logo" class="logo">-->
     <h1>КРАС-АВТО.РФ</h1>
     <nav>
-        <ul>
-            <li>О нас</li>
-            <li>Блог</li>
-            <li>Контакты</li>
-        </ul>
+        <a href="#"><span>О нас</span></a>
+        <a href="#"><span>Блог</span></a>
+        <a href="#contact"><span>Контакты</span></a>
     </nav>
 </header>
 <main>
@@ -90,7 +88,7 @@
     </div>
 </main>
 <footer>
-    <div class="contacts">
+    <div class="contacts" id="contact">
         <p>Кузовной ремонт <br> тел.: <a href="tel:+79119538548">+7 911 953-85-48</a></p>
         <p>Подбор цвета, покраска,
             полировка, продажа ЛКМ: <br>
@@ -122,31 +120,18 @@
 </script>
 <script src="https://www.google-analytics.com/analytics.js" async defer></script>
 <script type="text/javascript">
-
     $(function() {
-
         $(window).scroll(function() {
-
             if($(this).scrollTop() != 0) {
-
                 $('#toTop').fadeIn();
-
             } else {
-
                 $('#toTop').fadeOut();
-
             }
-
         });
-
         $('#toTop').click(function() {
-
             $('body,html').animate({scrollTop:0},800);
-
         });
-
     });
-
 </script>
 
 </body>
