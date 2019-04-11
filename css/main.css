@@ -133,6 +133,7 @@ header {
 }
 .banner {
     margin-bottom: 30px;
+    padding-top: 50px;
 }
 .banner img {
     width: 100%;
@@ -147,13 +148,43 @@ footer {
 h3 {
     color: #FF4900;
 }
+#toTop {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #A67C00;
+    border-radius: 50%;
+    background: #FFCF40;
+    text-align: center;
+    vertical-align: middle;
+    padding: 5px;
+    position: fixed;
+    bottom: 10px; /* отступ кнопки от нижнего края страницы*/
+    right: 10px;
+    cursor: pointer;
+    display: none;
+    color: #333;
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 
 
 
 
-
-
+@media only screen and (max-width: 599px) {
+    .services__item {
+        width: 90%;
+    }
+}
+@media (min-width: 600px) and (max-width: 899px) {
+    .services__item {
+        width: 50%;
+    }
+}
+       /** @media (min-width: 900px) and (max-width: 1199px)
+            @media (min-width: 1200px)**/
 
 
 

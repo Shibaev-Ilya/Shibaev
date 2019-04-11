@@ -1,6 +1,5 @@
 <!doctype html>
 <html class="no-js" lang="">
-
 <head>
     <meta charset="utf-8">
     <title></title>
@@ -16,8 +15,8 @@
     <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
     <meta name="theme-color" content="#fafafa">
 </head>
-
 <body>
+<div ID = "toTop" ><div>НАВЕРХ</div></div>
 <!--[if lte IE 9]>
 <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade
     your browser</a> to improve your experience and security.</p>
@@ -35,7 +34,7 @@
 </header>
 <main>
     <div class="banner">
-        <img src="img/pokraska.jpg" alt="Крас Авто">
+        <img src="img/slider-2.jpg" alt="Крас Авто">
     </div>
     <div class="services">
         <div class="services__item">
@@ -122,6 +121,34 @@
     ga('send', 'pageview')
 </script>
 <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+<script type="text/javascript">
+
+    $(function() {
+
+        $(window).scroll(function() {
+
+            if($(this).scrollTop() != 0) {
+
+                $('#toTop').fadeIn();
+
+            } else {
+
+                $('#toTop').fadeOut();
+
+            }
+
+        });
+
+        $('#toTop').click(function() {
+
+            $('body,html').animate({scrollTop:0},800);
+
+        });
+
+    });
+
+</script>
+
 </body>
 
 </html>
