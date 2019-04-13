@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8a1226c-dd0f-48a8-9707-d95ddf3072c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/arrow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/banner.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/45y45ysOM.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/45y45ysOM.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/asac69.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/asac69.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/avtocentr_v_spb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/avtocentr_v_spb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/color.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/color.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/mont.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/mont.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/sdvsmRXKDLY.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/sdvsmRXKDLY.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/sttand.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/sttand.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/vGBOjrr2dw.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/vGBOjrr2dw.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/wJxuzpFUXNs.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/wJxuzpFUXNs.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/wfwea-avto.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/wfwea-avto.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icon_paint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pokraska.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/services/asac.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/services/bamp.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/services/bamp.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/services/brulex.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/services/brulex.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/services/color.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/services/color.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/services/coloring.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/services/coloring.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/services/kraska.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/services/kraska.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/services/kuzov.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/services/kuzov.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/services/pol_200_125.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/services/polirovka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/services/polirovka.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/services/sale.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/services/sale.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/slider-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/slider-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="36" column="26" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="26" />
+            <state relative-caret-position="327">
+              <caret line="102" column="10" lean-forward="true" selection-start-line="102" selection-start-column="10" selection-end-line="102" selection-end-column="10" />
               <folding>
                 <element signature="n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -51,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="351">
-              <caret line="110" column="8" lean-forward="true" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="8" />
+              <caret line="218" column="16" lean-forward="true" selection-start-line="218" selection-start-column="16" selection-end-line="218" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -74,8 +48,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -128,12 +102,12 @@
       <workItem from="1554876028645" duration="179000" />
       <workItem from="1554918571678" duration="11590000" />
       <workItem from="1555094478419" duration="8285000" />
-      <workItem from="1555138678498" duration="1178000" />
+      <workItem from="1555138678498" duration="4336000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30355000" />
+    <option name="totallyTimeSpent" value="33513000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -200,20 +174,20 @@
     <entry file="file://$PROJECT_DIR$/img/gallery/45y45ysOM.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="36" column="26" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="26" />
-          <folding>
-            <element signature="n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
-          <caret line="110" column="8" lean-forward="true" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="8" />
+          <caret line="218" column="16" lean-forward="true" selection-start-line="218" selection-start-column="16" selection-end-line="218" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="102" column="10" lean-forward="true" selection-start-line="102" selection-start-column="10" selection-end-line="102" selection-end-column="10" />
+          <folding>
+            <element signature="n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
